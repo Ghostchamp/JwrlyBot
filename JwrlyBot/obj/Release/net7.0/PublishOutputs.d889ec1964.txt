@@ -1,0 +1,14 @@
+/Users/ghostchamp/Desktop/BotJwrly/JwrlyBot
+/Users/ghostchamp/Desktop/BotJwrly/JwrlyBot.dll
+/Users/ghostchamp/Desktop/BotJwrly/JwrlyBot.deps.json
+/Users/ghostchamp/Desktop/BotJwrly/JwrlyBot.runtimeconfig.json
+/Users/ghostchamp/Desktop/BotJwrly/JwrlyBot.pdb
+/Users/ghostchamp/Desktop/BotJwrly/ConcurrentCollections.dll
+/Users/ghostchamp/Desktop/BotJwrly/DSharpPlus.dll
+/Users/ghostchamp/Desktop/BotJwrly/DSharpPlus.CommandsNext.dll
+/Users/ghostchamp/Desktop/BotJwrly/DSharpPlus.Interactivity.dll
+/Users/ghostchamp/Desktop/BotJwrly/DSharpPlus.SlashCommands.dll
+/Users/ghostchamp/Desktop/BotJwrly/Microsoft.Extensions.DependencyInjection.dll
+/Users/ghostchamp/Desktop/BotJwrly/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ghostchamp/Desktop/BotJwrly/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ghostchamp/Desktop/BotJwrly/Newtonsoft.Json.dll

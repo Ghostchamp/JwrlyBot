@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JwrlyBot</id>
+    <version>1.0.0</version>
+    <authors>JwrlyBot</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="DSharpPlus" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="DSharpPlus.CommandsNext" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="DSharpPlus.Interactivity" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="DSharpPlus.SlashCommands" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/ghostchamp/Projects/JwrlyBot/JwrlyBot/bin/Debug/net7.0/JwrlyBot.runtimeconfig.json" target="lib/net7.0/JwrlyBot.runtimeconfig.json" />
+    <file src="/Users/ghostchamp/Projects/JwrlyBot/JwrlyBot/bin/Debug/net7.0/JwrlyBot.dll" target="lib/net7.0/JwrlyBot.dll" />
+  </files>
+</package>

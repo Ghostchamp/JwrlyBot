@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DSharpPlus" Version="4.4.1" />
+    <PackageReference Include="DSharpPlus.CommandsNext" Version="4.4.1" />
+    <PackageReference Include="DSharpPlus.Interactivity" Version="4.4.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="DSharpPlus.SlashCommands" Version="4.4.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="MainCommands\" />
+    <None Remove="HelpersClass\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MainCommands\" />
+    <Folder Include="HelpersClass\" />
+  </ItemGroup>
+</Project>
